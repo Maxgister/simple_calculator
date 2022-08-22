@@ -6,7 +6,6 @@ function calculator(string) {
       Rome = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'],
       x = numbers[0],
       y = numbers[2],
-      z = numbers[1],
       result = null;
 
     function checkType () {         
